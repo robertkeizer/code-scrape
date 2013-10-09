@@ -1,0 +1,12 @@
+{
+	"name": "code-scrape",
+	"description": "Simple code scrape coffeescript stuff.",
+	"version": "0.0.1",
+	"dependencies": {
+		"logging": "latest",
+		"coffee-script": "latest",
+		"async": "latest",
+		"find": "latest",
+		"async": "latest"
+	}
+}
